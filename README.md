@@ -22,5 +22,7 @@ Our implementation uses makes use of a Q-network which we train using several te
 
 We also experiment with different hyper-parameters and loss functions such as Mean-Squared-Error and Huber-loss.
 
-4. Dependencies
+4. To run the code simply open the Jupyter Notebook and select "Kernel -> Restart & Run All".
+
+5. Dependencies
 Python 3, Numpy, Pytorch, UnityEnvironment.
