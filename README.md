@@ -1,4 +1,6 @@
-# Udacity Deep Reinforcement Learning Nanodegree - Navigation Project
+<h1> Udacity Deep Reinforcement Learning Nanodegree</h1>
+  
+<h2>Navigation Project</h2>
 
 1.	Project Description
 
