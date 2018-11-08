@@ -27,4 +27,4 @@ We also experiment with different hyper-parameters and loss functions such as Me
 4. To run the code simply open the Jupyter Notebook and select "Kernel -> Restart & Run All".
 
 5. Dependencies
-Python 3, Numpy, Pytorch, UnityEnvironment.
+Python 3.6, Numpy 1.15.1, Pytorch 0.4.0, UnityEnvironment.
