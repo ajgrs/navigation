@@ -24,7 +24,7 @@ Our implementation uses makes use of a Q-network which we train using several te
 
 We also experiment with different hyper-parameters and loss functions such as Mean-Squared-Error and Huber-loss.
 
-<h3>4. </h3>
+<h3>4. Running the Code</h3>
 To run the code simply download the available files to a folder, open the Jupyter Notebook and select "Kernel -> Restart & Run All".
 
 <h3>5. Dependencies</h3>
