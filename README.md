@@ -28,3 +28,7 @@ We also experiment with different hyper-parameters and loss functions such as Me
 
 5. Dependencies
 Python 3.6, Numpy 1.15.1, Pytorch 0.4.0, UnityEnvironment.
+
+6. Credits
+Finally we would also like to acknowledge the quality of the code and resources made available here: https://github.com/higgsfield which greatly accelerated the understanding of PyTorch and the different algorithms used in this project. 
+Simply amazing work!
